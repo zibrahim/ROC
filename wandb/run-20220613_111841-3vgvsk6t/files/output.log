@@ -1,0 +1,541 @@
+3779
+198
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:18:55] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:18:57] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:18:58] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:00] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:01] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:01] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:02] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:02] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:19:37] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:19:42] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:19:44] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:19:45] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:45] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:46] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:19:47] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:19:48] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:13] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:20] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:20] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:20] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:21] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:21] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:23] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:24] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:54] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:56] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:20:58] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:20:58] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:21:00] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:00] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+3580
+397
+[11:21:35] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:36] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:21:36] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:37] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:37] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:38] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:21:39] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:21:39] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:16] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:16] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:22:18] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:22:18] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:19] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:19] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:22:21] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:21] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:55] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:22:57] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:57] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:22:59] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:22:59] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:23:00] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:23:00] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:23:02] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:23:34] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:23:37] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:23:38] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:23:38] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:23:38] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:23:39] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+3381
+596
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:24:11] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:11] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:11] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:12] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:12] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:24:13] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:14] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:24:17] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:52] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[11:24:53] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:53] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:54] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+[11:24:54] WARNING: /Users/travis/build/dmlc/xgboost/src/learner.cc:541:
+Parameters: { sum_pos_weight } might not be used.
+  This may not be accurate due to some parameters are only used in language bindings but
+  passed down to XGBoost core.  Or some parameters are not used but slip through this
+  verification. Please open an issue if you find above cases.
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 71, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 66, in main
+    cv_scores = cross_validate(pipeline, X, y, scoring=scoring_list, cv=cv, n_jobs=-1)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/utils/validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 246, in cross_validate
+    results = parallel(
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 1054, in __call__
+    self.retrieve()
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 933, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/concurrent/futures/_base.py", line 434, in result
+    self._condition.wait(timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/threading.py", line 302, in wait
+    waiter.acquire()
+KeyboardInterrupt

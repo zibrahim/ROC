@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 79, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 54, in main
+    grid_search = GridSearchCV(estimator=clf, param_grid=svm_grid,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/utils/validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 1284, in __init__
+    _check_param_grid(param_grid)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 393, in _check_param_grid
+    for p in param_grid:
+TypeError: 'NoneType' object is not iterable

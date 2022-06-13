@@ -1,0 +1,236 @@
+2022-06-13 14:17:52,569 INFO    MainThread:46677 [internal.py:wandb_internal():90] W&B internal server running at pid: 46677, started at: 2022-06-13 14:17:52.567429
+2022-06-13 14:17:52,574 DEBUG   SenderThread:46677 [sender.py:send():235] send: header
+2022-06-13 14:17:52,574 DEBUG   SenderThread:46677 [sender.py:send():235] send: run
+2022-06-13 14:17:52,574 INFO    WriterThread:46677 [datastore.py:open_for_write():75] open: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/run-1piz81h1.wandb
+2022-06-13 14:17:52,786 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: check_version
+2022-06-13 14:17:52,824 INFO    SenderThread:46677 [dir_watcher.py:__init__():205] watching files in: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files
+2022-06-13 14:17:52,824 INFO    SenderThread:46677 [sender.py:_start_run_threads():812] run started: 1piz81h1 with start time 1655126270
+2022-06-13 14:17:52,825 DEBUG   SenderThread:46677 [sender.py:send():235] send: summary
+2022-06-13 14:17:52,825 INFO    SenderThread:46677 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-06-13 14:17:52,825 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: check_version
+2022-06-13 14:17:52,891 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: run_start
+2022-06-13 14:17:52,893 DEBUG   HandlerThread:46677 [meta.py:__init__():35] meta init
+2022-06-13 14:17:52,894 DEBUG   HandlerThread:46677 [meta.py:__init__():49] meta init done
+2022-06-13 14:17:52,894 DEBUG   HandlerThread:46677 [meta.py:probe():209] probe
+2022-06-13 14:17:52,895 DEBUG   HandlerThread:46677 [meta.py:_setup_git():199] setup git
+2022-06-13 14:17:52,908 DEBUG   HandlerThread:46677 [meta.py:_setup_git():206] setup git done
+2022-06-13 14:17:52,908 DEBUG   HandlerThread:46677 [meta.py:_save_pip():53] save pip
+2022-06-13 14:17:52,909 DEBUG   HandlerThread:46677 [meta.py:_save_pip():67] save pip done
+2022-06-13 14:17:52,910 DEBUG   HandlerThread:46677 [meta.py:_save_conda():74] save conda
+2022-06-13 14:17:53,830 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_created():256] file/dir created: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/conda-environment.yaml
+2022-06-13 14:17:53,831 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_created():256] file/dir created: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-summary.json
+2022-06-13 14:17:53,831 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_created():256] file/dir created: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/requirements.txt
+2022-06-13 14:17:58,706 DEBUG   HandlerThread:46677 [meta.py:_save_conda():84] save conda done
+2022-06-13 14:17:58,706 DEBUG   HandlerThread:46677 [meta.py:probe():247] probe done
+2022-06-13 14:17:58,837 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/conda-environment.yaml
+2022-06-13 14:17:58,838 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_created():256] file/dir created: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:17:58,838 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_created():256] file/dir created: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-metadata.json
+2022-06-13 14:17:58,926 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:17:58,926 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:17:59,101 DEBUG   SenderThread:46677 [sender.py:send():235] send: telemetry
+2022-06-13 14:17:59,101 DEBUG   SenderThread:46677 [sender.py:send():235] send: files
+2022-06-13 14:17:59,101 INFO    SenderThread:46677 [sender.py:_save_file():949] saving file wandb-metadata.json with policy now
+2022-06-13 14:17:59,637 INFO    Thread-11 :46677 [upload_job.py:push():132] Uploaded file /var/folders/qz/ld9bhh9x1q748xgq0sbgwxkh0000gn/T/tmpbqbojydwwandb/uq2usfxt-wandb-metadata.json
+2022-06-13 14:18:12,883 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:14,342 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:18:14,342 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:18:14,888 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:16,893 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:18,903 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:20,909 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:21,709 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:18:22,917 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:23,922 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/config.yaml
+2022-06-13 14:18:24,927 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:26,934 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:28,942 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:29,522 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:18:29,522 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:18:30,947 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:43,985 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:44,688 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:18:44,689 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:18:45,994 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:48,000 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:50,004 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:52,012 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:52,585 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:18:54,016 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:56,022 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:18:59,894 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:18:59,895 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:19:15,428 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:19:15,428 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:19:23,466 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:19:30,677 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:19:30,677 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:19:39,149 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:41,157 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:43,164 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:45,172 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:45,957 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:19:45,958 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:19:47,180 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:49,188 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:51,192 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:53,200 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:19:54,339 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:19:55,207 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:20:01,235 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:20:01,235 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:20:16,608 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:20:16,609 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:20:25,235 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:20:32,431 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:20:32,431 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:20:47,678 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:20:47,679 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:20:56,086 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:20:59,405 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:01,414 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:02,941 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:21:02,941 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:21:07,432 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:09,438 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:13,454 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:15,463 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:17,472 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:18,119 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:21:18,120 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:21:19,482 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:21,489 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:23,491 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:25,500 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:27,017 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:21:27,506 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:21:33,286 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:21:33,286 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:21:48,712 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:21:48,712 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:21:57,877 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:22:04,371 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: stop_status
+2022-06-13 14:22:04,371 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: stop_status
+2022-06-13 14:22:08,516 WARNING MainThread:46677 [internal.py:wandb_internal():153] Internal process interrupt: 1
+2022-06-13 14:22:08,668 DEBUG   SenderThread:46677 [sender.py:send():235] send: telemetry
+2022-06-13 14:22:09,647 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:22:11,660 DEBUG   SenderThread:46677 [sender.py:send():235] send: exit
+2022-06-13 14:22:11,660 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:11,660 INFO    SenderThread:46677 [sender.py:send_exit():371] handling exit code: 255
+2022-06-13 14:22:11,661 INFO    SenderThread:46677 [sender.py:send_exit():373] handling runtime: 258
+2022-06-13 14:22:11,662 INFO    SenderThread:46677 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-06-13 14:22:11,662 INFO    SenderThread:46677 [sender.py:send_exit():379] send defer
+2022-06-13 14:22:11,663 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:11,663 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,663 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 0
+2022-06-13 14:22:11,664 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,664 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 0
+2022-06-13 14:22:11,664 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 1
+2022-06-13 14:22:11,664 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,664 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 1
+2022-06-13 14:22:11,750 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,750 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 1
+2022-06-13 14:22:11,750 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 2
+2022-06-13 14:22:11,750 DEBUG   SenderThread:46677 [sender.py:send():235] send: stats
+2022-06-13 14:22:11,751 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,751 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 2
+2022-06-13 14:22:11,751 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,751 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 2
+2022-06-13 14:22:11,751 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 3
+2022-06-13 14:22:11,752 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,752 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 3
+2022-06-13 14:22:11,752 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,752 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 3
+2022-06-13 14:22:11,752 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 4
+2022-06-13 14:22:11,752 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,753 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 4
+2022-06-13 14:22:11,753 DEBUG   SenderThread:46677 [sender.py:send():235] send: summary
+2022-06-13 14:22:11,753 INFO    SenderThread:46677 [sender.py:_save_file():949] saving file wandb-summary.json with policy end
+2022-06-13 14:22:11,754 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,754 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 4
+2022-06-13 14:22:11,754 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 5
+2022-06-13 14:22:11,754 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,754 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 5
+2022-06-13 14:22:11,754 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,755 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 5
+2022-06-13 14:22:11,767 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:11,946 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 6
+2022-06-13 14:22:11,946 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:11,947 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:11,947 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 6
+2022-06-13 14:22:11,947 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:11,947 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 6
+2022-06-13 14:22:11,947 INFO    SenderThread:46677 [dir_watcher.py:finish():336] shutting down directory watcher
+2022-06-13 14:22:12,052 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:12,653 INFO    Thread-7  :46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-summary.json
+2022-06-13 14:22:12,654 INFO    SenderThread:46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:22:12,654 INFO    SenderThread:46677 [dir_watcher.py:_on_file_modified():269] file/dir modified: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/config.yaml
+2022-06-13 14:22:12,654 INFO    SenderThread:46677 [dir_watcher.py:finish():366] scan: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files
+2022-06-13 14:22:12,654 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/requirements.txt requirements.txt
+2022-06-13 14:22:12,655 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log output.log
+2022-06-13 14:22:12,659 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/config.yaml config.yaml
+2022-06-13 14:22:12,664 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-summary.json wandb-summary.json
+2022-06-13 14:22:12,670 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/conda-environment.yaml conda-environment.yaml
+2022-06-13 14:22:12,675 INFO    SenderThread:46677 [dir_watcher.py:finish():380] scan save: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-metadata.json wandb-metadata.json
+2022-06-13 14:22:12,675 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 7
+2022-06-13 14:22:12,676 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:12,678 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:12,678 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 7
+2022-06-13 14:22:12,682 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:12,682 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 7
+2022-06-13 14:22:12,682 INFO    SenderThread:46677 [file_pusher.py:finish():145] shutting down file pusher
+2022-06-13 14:22:12,783 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:12,783 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:12,887 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:12,887 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:12,989 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:12,989 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,092 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,092 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,194 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,194 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,214 INFO    Thread-15 :46677 [upload_job.py:push():132] Uploaded file /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/wandb-summary.json
+2022-06-13 14:22:13,220 INFO    Thread-12 :46677 [upload_job.py:push():132] Uploaded file /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/requirements.txt
+2022-06-13 14:22:13,292 INFO    Thread-16 :46677 [upload_job.py:push():132] Uploaded file /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/conda-environment.yaml
+2022-06-13 14:22:13,295 INFO    Thread-14 :46677 [upload_job.py:push():132] Uploaded file /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/config.yaml
+2022-06-13 14:22:13,300 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,300 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,406 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,407 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,511 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,511 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,564 INFO    Thread-13 :46677 [upload_job.py:push():132] Uploaded file /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/files/output.log
+2022-06-13 14:22:13,617 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,618 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,721 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:13,721 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:13,767 INFO    Thread-6  :46677 [sender.py:transition_state():392] send defer: 8
+2022-06-13 14:22:13,767 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:13,768 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 8
+2022-06-13 14:22:13,768 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:13,768 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 8
+2022-06-13 14:22:13,823 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:14,198 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 9
+2022-06-13 14:22:14,198 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:14,199 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:14,199 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 9
+2022-06-13 14:22:14,199 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:14,199 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 9
+2022-06-13 14:22:14,200 INFO    SenderThread:46677 [sender.py:transition_state():392] send defer: 10
+2022-06-13 14:22:14,200 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: defer
+2022-06-13 14:22:14,201 DEBUG   SenderThread:46677 [sender.py:send():235] send: final
+2022-06-13 14:22:14,201 INFO    HandlerThread:46677 [handler.py:handle_request_defer():164] handle defer: 10
+2022-06-13 14:22:14,201 DEBUG   SenderThread:46677 [sender.py:send():235] send: footer
+2022-06-13 14:22:14,201 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: defer
+2022-06-13 14:22:14,201 INFO    SenderThread:46677 [sender.py:send_request_defer():388] handle sender defer: 10
+2022-06-13 14:22:14,301 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: poll_exit
+2022-06-13 14:22:14,302 DEBUG   SenderThread:46677 [sender.py:send_request():249] send_request: poll_exit
+2022-06-13 14:22:14,302 INFO    SenderThread:46677 [file_pusher.py:join():150] waiting for file pusher
+2022-06-13 14:22:14,734 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: sampled_history
+2022-06-13 14:22:14,735 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: get_summary
+2022-06-13 14:22:14,736 DEBUG   HandlerThread:46677 [handler.py:handle_request():141] handle_request: shutdown
+2022-06-13 14:22:14,736 INFO    HandlerThread:46677 [handler.py:finish():806] shutting down handler
+2022-06-13 14:22:15,201 INFO    WriterThread:46677 [datastore.py:close():279] close: /Users/babylon/Documents/NoROC/NoROCPython/wandb/run-20220613_141750-1piz81h1/run-1piz81h1.wandb
+2022-06-13 14:22:15,630 INFO    SenderThread:46677 [sender.py:finish():1111] shutting down sender
+2022-06-13 14:22:15,630 INFO    SenderThread:46677 [file_pusher.py:finish():145] shutting down file pusher
+2022-06-13 14:22:15,630 INFO    SenderThread:46677 [file_pusher.py:join():150] waiting for file pusher
+2022-06-13 14:22:15,635 INFO    MainThread:46677 [internal.py:handle_exit():80] Internal process exited

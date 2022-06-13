@@ -1,0 +1,32 @@
+{
+	"paths": {
+		"data_path" : "Data/",
+		"autoencoder_models_path": "Models/",
+		"autoencoder_output_path": "AutoEncoder/",
+		"classification_report_path": "ClassificationReport/"
+	},
+	"data": {
+		"grouping": "Patient_id",
+		"sequence_length": 31,
+		"batch_size": 48,
+
+		"features": [
+				"HR", "HR", "O2Sat", "Temp", "SBP", "MAP", "DBP", "Resp",
+				"Resp", "EtCO2", "BaseExcess", "HCO3", "FiO2", "pH", "PaCO2",
+				"SaO2", "AST", "BUN", "Alkalinephos", "Calcium", "Chloride", "Creatinine",
+				"Bilirubin_direct", "Glucose", "Lactate", "Magnesium", "Phosphate", "Potassium",
+				"Bilirubin_total", "TroponinI", "Hct", "Hgb", "PTT", "WBC", "Fibrinogen", "Platelets", "Age",
+				"Gender"
+		]
+		,
+		"classification_outcome": "SepsisLabel",
+		"classification_label": {"SepsisLabel":"Sepsis"}
+	},
+	"training": {
+		"folds": 10,
+		"epochs": 100
+	},
+	"model": {
+		"name": "Pneumonia"
+	}
+}

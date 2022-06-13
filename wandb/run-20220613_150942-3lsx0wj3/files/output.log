@@ -1,0 +1,148 @@
+
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.2s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.2s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 80, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 74, in main
+    cv_scores = cross_validate(pipeline, X_traintest, y_traintest, scoring=scoring_list, cv=cv, n_jobs=-1)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/utils/validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 246, in cross_validate
+    results = parallel(
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 1054, in __call__
+    self.retrieve()
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 933, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/concurrent/futures/_base.py", line 434, in result
+    self._condition.wait(timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/threading.py", line 302, in wait
+    waiter.acquire()
+KeyboardInterrupt

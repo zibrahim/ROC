@@ -1,0 +1,214 @@
+
+Fitting 3 folds for each of 10000000 candidates, totalling 30000000 fits
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=40; total time=  34.9s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=45; total time=  34.8s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=42; total time=  35.1s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=45; total time=  35.0s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=40; total time=  35.2s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=42; total time=  35.4s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=40; total time=  39.2s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=42; total time=  39.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=48; total time=  35.1s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=51; total time=  34.9s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=51; total time=  31.2s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=48; total time=  35.5s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=48; total time=  39.5s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=51; total time=  39.3s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=45; total time=  39.8s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=54; total time=  39.4s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=54; total time=  31.3s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=54; total time=  35.3s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=60; total time=  31.0s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=57; total time=  35.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=57; total time=  39.4s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=57; total time=  35.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=60; total time=  39.3s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=60; total time=  44.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=62; total time=  35.5s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=62; total time=  35.1s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=62; total time=  39.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=65; total time=  39.4s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=65; total time=  35.5s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=65; total time=  35.5s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=68; total time=  39.3s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=68; total time=  30.9s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=71; total time=  53.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=74; total time=  53.8s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=74; total time=  58.1s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=71; total time= 1.0min
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=71; total time= 1.1min
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=77; total time=  59.0s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=68; total time= 1.2min
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=74; total time= 1.1min
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=77; total time=  33.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=80; total time=  33.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=80; total time=  37.8s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=77; total time=  43.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=82; total time=  33.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=82; total time=  38.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=80; total time=  47.9s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=85; total time=  37.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=82; total time=  47.4s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=85; total time=  33.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=88; total time=  33.0s
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=88; total time=  37.6s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=85; total time=  42.7s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=91; total time=  36.8s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=88; total time=  46.0s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+[CV] END gamma=1, max_depth=10, n_estimators=200, reg_alpha=91; total time=  32.3s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/xgboost/sklearn.py:888: UserWarning: The use of label encoder in XGBClassifier is deprecated and will be removed in a future release. To remove this warning, do the following: 1) Pass option use_label_encoder=False when constructing XGBClassifier object; and 2) Encode your labels (y) as integers starting with 0, i.e. 0, 1, 2, ..., [num_class - 1].
+  warnings.warn(label_encoder_deprecation_msg, UserWarning)
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 79, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 63, in main
+    grid_search.fit(X_scaled, y_tune)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/utils/validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 1288, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 795, in evaluate_candidates
+    out = parallel(delayed(_fit_and_score)(clone(base_estimator),
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 1054, in __call__
+    self.retrieve()
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/parallel.py", line 933, in retrieve
+    self._output.extend(job.get(timeout=self.timeout))
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/joblib/_parallel_backends.py", line 542, in wrap_future_result
+    return future.result(timeout=timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/concurrent/futures/_base.py", line 434, in result
+    self._condition.wait(timeout)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/threading.py", line 302, in wait
+    waiter.acquire()
+KeyboardInterrupt

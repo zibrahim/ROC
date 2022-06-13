@@ -1,0 +1,157 @@
+3779
+198
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+3580
+397
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+3381
+596
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+3182
+795
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+2983
+994
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+2784
+1193
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+2585
+1392
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+2386
+1591
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.5s[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+2187
+1790
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+1989
+1989
+Fitting 3 folds for each of 3 candidates, totalling 9 fits
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=50; total time=   0.3s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=10; total time=   0.4s
+[CV] END class_weight=balanced, max_features=auto, min_samples_leaf=100; total time=   0.4s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"

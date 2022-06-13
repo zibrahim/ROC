@@ -1,0 +1,769 @@
+
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.2s
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py:685: ConvergenceWarning: [IterativeImputer] Early stopping criterion not reached.
+  warnings.warn("[IterativeImputer] Early stopping criterion not"
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py:683: UserWarning: Scoring failed. The score on this train-test partition for these parameters will be set to nan. Details:
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_validation.py", line 674, in _score
+    scores = scorer(estimator, X_test, y_test)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 87, in __call__
+    score = scorer._score(cached_call, estimator,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/metrics/_scorer.py", line 242, in _score
+    return self._sign * self._score_func(y_true, y_pred,
+  File "/Users/babylon/Documents/NoROC/NoROCPython/Models/Metrics.py", line 38, in pr_auc_score
+    precision_recall_curve(y_true, y_score[:, 1])
+IndexError: too many indices for array: array is 1-dimensional, but 2 were indexed
+  warnings.warn(
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 80, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 61, in main
+    X_imputed = imputer.fit_transform(X_tune)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py", line 657, in fit_transform
+    Xt, estimator = self._impute_one_feature(
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/impute/_iterative.py", line 309, in _impute_one_feature
+    estimator.fit(X_train, y_train)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/linear_model/_bayes.py", line 240, in fit
+    U, S, Vh = linalg.svd(X, full_matrices=False)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/scipy/linalg/decomp_svd.py", line 125, in svd
+    u, s, v, info = gesXd(a1, compute_uv=compute_uv, lwork=lwork,
+KeyboardInterrupt

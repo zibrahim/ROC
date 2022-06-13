@@ -1,0 +1,20 @@
+
+Fitting 3 folds for each of 4 candidates, totalling 12 fits
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .....class_weight=balanced, degree=3, kernel=linear; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.1s
+[CV] END .......class_weight=balanced, degree=3, kernel=poly; total time=   0.0s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ........class_weight=balanced, degree=3, kernel=rbf; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+[CV] END ....class_weight=balanced, degree=3, kernel=sigmoid; total time=   0.1s
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 79, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 69, in main
+    steps.append('model', best_model)
+TypeError: append() takes exactly one argument (2 given)

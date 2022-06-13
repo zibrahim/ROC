@@ -1,0 +1,14 @@
+3779
+198
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictForest.py", line 84, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictForest.py", line 59, in main
+    grid_search = GridSearchCV(estimator=rf, param_grid=rf_grid,
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/utils/validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 1284, in __init__
+    _check_param_grid(param_grid)
+  File "/opt/anaconda3/envs/tensorflow/lib/python3.8/site-packages/sklearn/model_selection/_search.py", line 400, in _check_param_grid
+    raise ValueError("Parameter grid for parameter ({0}) needs to"
+ValueError: Parameter grid for parameter (max_features) needs to be a list or numpy array, but got (<class 'str'>). Single values need to be wrapped in a list with one element.

@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 78, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictXGB.py", line 54, in main
+    grid_search = GridSearchCV(estimator=clf, param_grid=svm_grid,
+NameError: name 'svm_grid' is not defined

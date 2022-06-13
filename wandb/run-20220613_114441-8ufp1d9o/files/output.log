@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 79, in <module>
+    main()
+  File "/Users/babylon/Documents/NoROC/NoROCPython/3.PredictSVM.py", line 53, in main
+    svm = svm.SVC(class_weight ='balanced')
+UnboundLocalError: local variable 'svm' referenced before assignment
